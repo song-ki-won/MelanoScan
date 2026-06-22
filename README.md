@@ -1,3 +1,5 @@
+26-1학기 융합설계 프로젝트 AIDA팀
+
 # MelanoScan
 
 MelanoScan은 피부 병변 이미지를 기반으로 AI 분석을 수행하고, 병변 크기 변화를 기록할 수 있는 Android 앱입니다.
